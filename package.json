@@ -1,0 +1,17 @@
+{
+  "name": "productecomapi",
+  "version": "1.0.0",
+  "description": "\"Design an API for an ecommerce platform admin to manage product inventory",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikas Soam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.2"
+  }
+}
